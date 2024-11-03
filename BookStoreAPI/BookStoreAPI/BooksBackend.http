@@ -1,0 +1,6 @@
+@BooksBackend_HostAddress = http://localhost:5211
+
+GET {{BookStoreAPI_HostAddress}}/bookstoreAPI/
+Accept: application/json
+
+###
